@@ -81,12 +81,6 @@ JOIN discount_data b
    AND a.month = b.Month;
 ```
 
-## How to Use
-1. Download the Power BI file  
-2. Open the file in Power BI Desktop  
-3. Use slicers to filter by product, customer type, country, discount band, or year  
-4. Hover over visuals to explore additional context using tooltips  
-
 ---
 
 ## 📸 Dashboard Preview
