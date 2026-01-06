@@ -5,6 +5,9 @@ This project is an interactive Power BI dashboard designed to analyze product re
 
 The dashboard transforms raw product and sales data into actionable business insights to support pricing strategy, customer analysis, and performance tracking.
 
+## Power BI File
+📁 **Download:** [Product_Analysis.pbix](Product_Analysis.pbix)
+
 ---
 
 ## Key Features
