@@ -88,9 +88,8 @@ JOIN discount_data b
 
 ## 📸 Dashboard Preview
 <img width="866" height="486" alt="Dashboard_Overview1" src="https://github.com/user-attachments/assets/b68773c5-63a0-481c-bc8a-dd00dc2e8ada" />
-<img width="598" height="225" alt="Customer_segmentation" src="https://github.com/user-attachments/assets/e1233af1-98d1-4ff4-8705-1c9d48a2ab81" />
 <img width="867" height="487" alt="Tootlips" src="https://github.com/user-attachments/assets/232f173c-a135-4a41-b13c-22979c4129a3" />
-
+<img width="598" height="225" alt="Customer_segmentation" src="https://github.com/user-attachments/assets/e1233af1-98d1-4ff4-8705-1c9d48a2ab81" />
 
 
 ## Project Value
