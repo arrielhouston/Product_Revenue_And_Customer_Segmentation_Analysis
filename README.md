@@ -47,7 +47,6 @@ SQL was used to join product, sales, and discount data into a single analysis-re
 - Generated discount-adjusted revenue for pricing analysis
 
 ### SQL Query Used
-```sql
 WITH cte AS (
     SELECT 
         a.Product,
