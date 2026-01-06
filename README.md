@@ -79,7 +79,7 @@ FROM cte a
 JOIN discount_data b
     ON a.Discount_Band = b.Discount_Band
    AND a.month = b.Month;
-
+```
 
 ## How to Use
 1. Download the Power BI file  
