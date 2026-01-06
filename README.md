@@ -47,6 +47,9 @@ SQL was used to join product, sales, and discount data into a single analysis-re
 - Generated discount-adjusted revenue for pricing analysis
 
 ### SQL Query Used
+## SQL Data Preparation
+
+```sql
 WITH cte AS (
     SELECT 
         a.Product,
@@ -77,6 +80,7 @@ FROM cte a
 JOIN discount_data b
     ON a.Discount_Band = b.Discount_Band
    AND a.month = b.Month;
+
 
 ## How to Use
 1. Download the Power BI file  
